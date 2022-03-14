@@ -11,4 +11,5 @@ https://github.com/auth0/java-jwt
 - [ ] HS256 + Secret String -> JWT 検証
 - [ ] Custom Claims の汎用的な追加(T.B.D)
 
-
+# License
+This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for more info.
